@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://mk5nwar76q05"]
+
+[ext_resource type="Texture2D" uid="uid://b01gsodgmi3kc" path="res://Screenshot 2026-06-16 at 7.12.21 PM.png" id="1_0e48y"]
+[ext_resource type="Texture2D" uid="uid://6x2c6pg3yxhb" path="res://Screenshot_2026-06-16_at_7.12.21_PM-removebg-preview.png" id="2_epypp"]
+
+[node name="Node2D" type="Node2D" unique_id=1781706877]
+
+[node name="delete this" type="Sprite2D" parent="." unique_id=1875665817]
+visible = false
+position = Vector2(246.99998, 700)
+scale = Vector2(-0.043047342, -0.006842946)
+texture = ExtResource("1_0e48y")
+
+[node name="Screenshot20260616At7_12_21PmRemovebgPreview" type="Sprite2D" parent="." unique_id=632659213]
+position = Vector2(1118, 837)
+scale = Vector2(1.3513514, 1.4128114)
+texture = ExtResource("2_epypp")
